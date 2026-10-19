@@ -2,10 +2,10 @@
 
 > Zero-runtime-dependency environment discovery, contract synchronization, and startup validation tool for JavaScript and TypeScript projects.
 
-Repository: https://github.com/ashishrbuilds/envboot
-Documentation: https://ashishrbuilds.github.io/envboot/
+Repository: https://github.com/builtbyashish/envboot
+Documentation: https://builtbyashish.github.io/envboot-core/
 npm: https://www.npmjs.com/package/envboot
-Author: Ashish Ranjan (https://github.com/ashishrbuilds)
+Author: Ashish Ranjan (https://github.com/builtbyashish)
 License: MIT
 
 ---

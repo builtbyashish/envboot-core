@@ -21,7 +21,7 @@ export interface GitHubRelease {
 const CACHE_KEY = 'envboot_github_releases_cache';
 const TIMESTAMP_KEY = 'envboot_github_releases_timestamp';
 const CACHE_TTL_MS = 10 * 60 * 1000; // 10 minutes
-const REPO_API_URL = 'https://api.github.com/repos/ashishrbuilds/envboot/releases';
+const REPO_API_URL = 'https://api.github.com/repos/builtbyashish/envboot/releases';
 
 export const getCachedReleases = (): GitHubRelease[] | null => {
   try {

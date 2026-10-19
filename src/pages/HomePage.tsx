@@ -45,7 +45,7 @@ export const HomePage: React.FC = () => {
             price: '0',
             priceCurrency: 'USD',
           },
-          url: 'https://ashishrbuilds.github.io/envboot',
+          url: 'https://builtbyashish.github.io/envboot-core/',
           author: {
             '@type': 'Person',
             name: 'Ashish Ranjan',

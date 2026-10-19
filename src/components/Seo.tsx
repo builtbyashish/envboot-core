@@ -16,7 +16,7 @@ const getBaseUrl = (): string => {
     const pathname = window.location.pathname.replace(/\/$/, '');
     return `${window.location.origin}${pathname}`;
   }
-  return 'https://ashishrbuilds.github.io/envboot-core';
+  return 'https://builtbyashish.github.io/envboot-core';
 };
 
 const BASE_URL = getBaseUrl();
@@ -32,7 +32,7 @@ export const Seo: React.FC<SeoProps> = ({
 }) => {
   const location = useLocation();
   const currentPath = canonicalPath || location.pathname;
-  const canonicalUrl = `${BASE_URL}#${currentPath}`;
+  const canonicalUrl = `${BASE_URL}${currentPath === '/' ? '' : currentPath}`;
   const fullTitle = title.includes('EnvBoot') ? title : `${title} — EnvBoot`;
 
   useEffect(() => {
@@ -82,7 +82,7 @@ export const Seo: React.FC<SeoProps> = ({
     setMeta('name', 'twitter:title', fullTitle);
     setMeta('name', 'twitter:description', description);
     setMeta('name', 'twitter:image', DEFAULT_IMAGE);
-    setMeta('name', 'twitter:creator', '@ashishrbuilds');
+    setMeta('name', 'twitter:creator', '@builtbyashish');
 
     // 5. Canonical Link
     setLink('canonical', canonicalUrl);

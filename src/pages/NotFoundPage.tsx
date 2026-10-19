@@ -40,7 +40,7 @@ export const NotFoundPage: React.FC = () => {
               <span className="ml-2 text-zinc-400">envboot check --route</span>
             </div>
             <div className="pt-3 space-y-1 text-[11px] leading-relaxed">
-              <p className="text-zinc-500">$ npx envboot check {typeof window !== 'undefined' ? window.location.hash : ''}</p>
+              <p className="text-zinc-500">$ npx envboot check {typeof window !== 'undefined' ? window.location.pathname : ''}</p>
               <p className="text-rose-400 font-semibold">✖ Contract violation: Missing route contract</p>
               <p className="text-zinc-400">  Diagnosis: Target URL is not mapped in documentation manifest.</p>
               <p className="text-zinc-500">  Recommended action: Return to index or explore documented modules.</p>

@@ -50,7 +50,7 @@ export const Footer: React.FC = () => {
             <ul className="space-y-1.5 text-zinc-600 dark:text-zinc-400">
               <li>
                 <a 
-                  href="https://github.com/ashishrbuilds/envboot" 
+                  href="https://github.com/builtbyashish/envboot" 
                   target="_blank" 
                   rel="noreferrer"
                   className="hover:text-zinc-950 dark:hover:text-white transition-colors inline-flex items-center gap-1"
@@ -91,7 +91,7 @@ export const Footer: React.FC = () => {
           <div>
             MIT © {new Date().getFullYear()}{' '}
             <a
-              href="https://github.com/ashishrbuilds"
+              href="https://github.com/builtbyashish"
               target="_blank"
               rel="noreferrer"
               className="text-zinc-700 dark:text-zinc-300 hover:text-zinc-950 dark:hover:text-white transition-colors underline decoration-zinc-300 dark:decoration-zinc-700 underline-offset-2 font-medium"
@@ -100,7 +100,7 @@ export const Footer: React.FC = () => {
             </a>{' '}
             &{' '}
             <a
-              href="https://github.com/ashishrbuilds/envboot/graphs/contributors"
+              href="https://github.com/builtbyashish/envboot/graphs/contributors"
               target="_blank"
               rel="noreferrer"
               className="text-zinc-700 dark:text-zinc-300 hover:text-zinc-950 dark:hover:text-white transition-colors underline decoration-zinc-300 dark:decoration-zinc-700 underline-offset-2"

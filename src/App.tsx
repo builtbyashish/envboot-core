@@ -62,11 +62,13 @@ const AppShell: React.FC = () => {
   );
 };
 
+const basename = (import.meta.env.BASE_URL || '/').replace(/\/$/, '') || '/';
+
 export const App: React.FC = () => {
   return (
     <ThemeProvider>
       <PackageManagerProvider>
-        <Router basename={import.meta.env.BASE_URL}>
+        <Router basename={basename}>
           <AppShell />
         </Router>
       </PackageManagerProvider>

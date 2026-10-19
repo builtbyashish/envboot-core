@@ -1,18 +1,18 @@
 <div align="center">
   <img src="src/assets/envboot.png" alt="EnvBoot Logo" width="96" />
   <h1>EnvBoot Docs</h1>
-  <p>Source for the <a href="https://ashishrbuilds.github.io/envboot-core/">EnvBoot documentation site</a> — built with React + Vite, deployed to GitHub Pages.</p>
+  <p>Source for the <a href="https://builtbyashish.github.io/envboot-core/">EnvBoot documentation site</a> — built with React + Vite, deployed to GitHub Pages.</p>
 
-  <a href="https://ashishrbuilds.github.io/envboot-core/">
+  <a href="https://builtbyashish.github.io/envboot-core/">
     <img src="https://img.shields.io/badge/docs-live-4f46e5?style=flat-square&logo=github" alt="Live Docs" />
   </a>
   <a href="https://www.npmjs.com/package/envboot">
     <img src="https://img.shields.io/npm/v/envboot?style=flat-square&logo=npm&color=cb3837" alt="npm" />
   </a>
-  <a href="https://github.com/ashishrbuilds/envboot-core/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/ashishrbuilds/envboot-core/deploy.yml?style=flat-square&label=deploy" alt="Deploy status" />
+  <a href="https://github.com/builtbyashish/envboot-core/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/builtbyashish/envboot-core/deploy.yml?style=flat-square&label=deploy" alt="Deploy status" />
   </a>
-  <a href="https://github.com/ashishrbuilds/envboot/blob/main/LICENSE">
+  <a href="https://github.com/builtbyashish/envboot/blob/main/LICENSE">
     <img src="https://img.shields.io/npm/l/envboot?style=flat-square" alt="License" />
   </a>
 </div>
@@ -23,9 +23,9 @@
 
 | Resource | URL |
 |----------|-----|
-| 📖 Live Documentation | https://ashishrbuilds.github.io/envboot-core/ |
+| 📖 Live Documentation | https://builtbyashish.github.io/envboot-core/ |
 | 📦 npm Package | https://www.npmjs.com/package/envboot |
-| 🛠️ Package Source | https://github.com/ashishrbuilds/envboot |
+| 🛠️ Package Source | https://github.com/builtbyashish/envboot |
 
 ---
 
@@ -33,7 +33,7 @@
 
 ```bash
 # Clone this repo
-git clone https://github.com/ashishrbuilds/envboot-core.git
+git clone https://github.com/builtbyashish/envboot-core.git
 cd envboot-core
 
 # Install dependencies
@@ -93,5 +93,5 @@ Contributions, issues and feature requests are welcome! Feel free to open a PR o
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/ashishrbuilds">@ashishrbuilds</a>
+  Made with ❤️ by <a href="https://github.com/builtbyashish">@builtbyashish</a>
 </div>

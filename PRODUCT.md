@@ -37,7 +37,7 @@ Zero-runtime-dependency environment contract and validation tool. Unlike heavy s
 ## Brand Commitments
 
 - Name: `envboot`
-- Repository: `https://github.com/ashishrbuilds/envboot`
+- Repository: `https://github.com/builtbyashish/envboot`
 - Package: `envboot` on npm
 - Maintainer: Ashish Ranjan & EnvBoot Contributors
 - License: MIT
@@ -45,7 +45,7 @@ Zero-runtime-dependency environment contract and validation tool. Unlike heavy s
 ## Evidence on Hand
 
 - Published npm package `envboot@0.1.7` (pending release/publish).
-- Official GitHub repository (`ashishrbuilds/envboot`) with complete README, CLI specifications, terminal output fixtures, runtime API signatures, and framework compatibility list.
+- Official GitHub repository (`builtbyashish/envboot`) with complete README, CLI specifications, terminal output fixtures, runtime API signatures, and framework compatibility list.
 
 ## Product Principles
 

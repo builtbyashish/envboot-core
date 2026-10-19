@@ -197,7 +197,7 @@ export const ChangelogPage: React.FC = () => {
             </button>
 
             <a
-              href="https://github.com/ashishrbuilds/envboot/releases"
+              href="https://github.com/builtbyashish/envboot/releases"
               target="_blank"
               rel="noreferrer"
               className="p-1.5 rounded-lg border border-zinc-200 dark:border-zinc-800 bg-zinc-50 dark:bg-zinc-900 text-zinc-500 hover:text-zinc-900 dark:hover:text-white transition-colors"

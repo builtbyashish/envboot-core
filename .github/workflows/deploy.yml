@@ -70,5 +70,5 @@ jobs:
 
             Documentation site deployed to GitHub Pages.
 
-            🔗 **Live site**: https://ashishrbuilds.github.io/envboot-core/
+            🔗 **Live site**: https://builtbyashish.github.io/envboot-core/
           generate_release_notes: true

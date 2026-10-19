@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://ashishrbuilds.github.io/envboot/sitemap.xml
+Sitemap: https://builtbyashish.github.io/envboot-core/sitemap.xml

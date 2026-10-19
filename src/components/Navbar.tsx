@@ -108,7 +108,7 @@ export const Navbar: React.FC = () => {
 
             {/* GitHub */}
             <a
-              href="https://github.com/ashishrbuilds/envboot"
+              href="https://github.com/builtbyashish/envboot"
               target="_blank"
               rel="noreferrer"
               aria-label="GitHub Repository"

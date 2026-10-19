@@ -266,7 +266,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
       {/* Bottom Sticky Footer */}
       <div className="p-3 border-t border-zinc-200 dark:border-zinc-800/80 bg-zinc-100/60 dark:bg-zinc-900/40 flex items-center justify-between text-xs text-zinc-500 dark:text-zinc-400">
         <a
-          href="https://github.com/ashishrbuilds/envboot"
+          href="https://github.com/builtbyashish/envboot"
           target="_blank"
           rel="noreferrer"
           aria-label="GitHub Repository"
